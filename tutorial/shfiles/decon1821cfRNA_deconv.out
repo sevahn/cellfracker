@@ -1,0 +1,433 @@
+Performing nu-SVR
+nu = 0.05
+C = 0.1
+done fitting -- total fit time was 0.005588531494140625
+sampName in nuSVR 1821
+rmse = 0.4190492089306292
+nu = 0.1
+C = 0.1
+done fitting -- total fit time was 0.003361225128173828
+sampName in nuSVR 1821
+rmse = 0.4522596389387026
+nu = 0.15
+C = 0.1
+done fitting -- total fit time was 0.003210306167602539
+sampName in nuSVR 1821
+rmse = 0.5372933127817936
+nu = 0.25
+C = 0.1
+done fitting -- total fit time was 0.0032265186309814453
+sampName in nuSVR 1821
+rmse = 0.5373538749503033
+nu = 0.5
+C = 0.1
+done fitting -- total fit time was 0.005774497985839844
+sampName in nuSVR 1821
+rmse = 0.537308888146265
+nu = 0.6
+C = 0.1
+done fitting -- total fit time was 0.005207061767578125
+sampName in nuSVR 1821
+rmse = 0.5372466014434145
+nu = 0.75
+C = 0.1
+done fitting -- total fit time was 0.0035812854766845703
+sampName in nuSVR 1821
+rmse = 0.5373450592157708
+nu = 0.8
+C = 0.1
+done fitting -- total fit time was 0.003120899200439453
+sampName in nuSVR 1821
+rmse = 0.537453694926438
+nu = 0.85
+C = 0.1
+done fitting -- total fit time was 0.003493785858154297
+sampName in nuSVR 1821
+rmse = 0.5374536949264378
+nu = 0.05
+C = 0.25
+done fitting -- total fit time was 0.0032575130462646484
+sampName in nuSVR 1821
+rmse = 0.5036180006041466
+nu = 0.1
+C = 0.25
+done fitting -- total fit time was 0.003220796585083008
+sampName in nuSVR 1821
+rmse = 0.5372933127817936
+nu = 0.15
+C = 0.25
+done fitting -- total fit time was 0.0032668113708496094
+sampName in nuSVR 1821
+rmse = 0.5372933127817936
+nu = 0.25
+C = 0.25
+done fitting -- total fit time was 0.0033588409423828125
+sampName in nuSVR 1821
+rmse = 0.5373538749503033
+nu = 0.5
+C = 0.25
+done fitting -- total fit time was 0.003625154495239258
+sampName in nuSVR 1821
+rmse = 0.5373088881462648
+nu = 0.6
+C = 0.25
+done fitting -- total fit time was 0.0032777786254882812
+sampName in nuSVR 1821
+rmse = 0.5373439444530266
+nu = 0.75
+C = 0.25
+done fitting -- total fit time was 0.0047223567962646484
+sampName in nuSVR 1821
+rmse = 0.5373450592157702
+nu = 0.8
+C = 0.25
+done fitting -- total fit time was 0.0035588741302490234
+sampName in nuSVR 1821
+rmse = 0.537453694926438
+nu = 0.85
+C = 0.25
+done fitting -- total fit time was 0.0031747817993164062
+sampName in nuSVR 1821
+rmse = 0.5374536949264379
+nu = 0.05
+C = 0.5
+done fitting -- total fit time was 0.003164529800415039
+sampName in nuSVR 1821
+rmse = 0.5372933127817936
+nu = 0.1
+C = 0.5
+done fitting -- total fit time was 0.003187417984008789
+sampName in nuSVR 1821
+rmse = 0.5372933127817937
+nu = 0.15
+C = 0.5
+done fitting -- total fit time was 0.0031418800354003906
+sampName in nuSVR 1821
+rmse = 0.5372933127817937
+nu = 0.25
+C = 0.5
+done fitting -- total fit time was 0.00321197509765625
+sampName in nuSVR 1821
+rmse = 0.5373538749503036
+nu = 0.5
+C = 0.5
+done fitting -- total fit time was 0.005807399749755859
+sampName in nuSVR 1821
+rmse = 0.537308888146265
+nu = 0.6
+C = 0.5
+done fitting -- total fit time was 0.0035157203674316406
+sampName in nuSVR 1821
+rmse = 0.5373185796199647
+nu = 0.75
+C = 0.5
+done fitting -- total fit time was 0.0047109127044677734
+sampName in nuSVR 1821
+rmse = 0.5373450592157707
+nu = 0.8
+C = 0.5
+done fitting -- total fit time was 0.004049062728881836
+sampName in nuSVR 1821
+rmse = 0.5374536949264387
+nu = 0.85
+C = 0.5
+done fitting -- total fit time was 0.003304004669189453
+sampName in nuSVR 1821
+rmse = 0.5374536949264385
+nu = 0.05
+C = 0.75
+done fitting -- total fit time was 0.0032906532287597656
+sampName in nuSVR 1821
+rmse = 0.5372933127817936
+nu = 0.1
+C = 0.75
+done fitting -- total fit time was 0.0033473968505859375
+sampName in nuSVR 1821
+rmse = 0.5372933127817939
+nu = 0.15
+C = 0.75
+done fitting -- total fit time was 0.0032432079315185547
+sampName in nuSVR 1821
+rmse = 0.5372933127817939
+nu = 0.25
+C = 0.75
+done fitting -- total fit time was 0.0032148361206054688
+sampName in nuSVR 1821
+rmse = 0.5373538749503033
+nu = 0.5
+C = 0.75
+done fitting -- total fit time was 0.00595402717590332
+sampName in nuSVR 1821
+rmse = 0.537308888146265
+nu = 0.6
+C = 0.75
+done fitting -- total fit time was 0.00461888313293457
+sampName in nuSVR 1821
+rmse = 0.5373088881462651
+nu = 0.75
+C = 0.75
+done fitting -- total fit time was 0.0044748783111572266
+sampName in nuSVR 1821
+rmse = 0.5373450592157709
+nu = 0.8
+C = 0.75
+done fitting -- total fit time was 0.006009340286254883
+sampName in nuSVR 1821
+rmse = 0.5374536949264381
+nu = 0.85
+C = 0.75
+done fitting -- total fit time was 0.00396728515625
+sampName in nuSVR 1821
+rmse = 0.5374536949264374
+nu = 0.05
+C = 1
+done fitting -- total fit time was 0.003323078155517578
+sampName in nuSVR 1821
+rmse = 0.5372933127817937
+nu = 0.1
+C = 1
+done fitting -- total fit time was 0.00452876091003418
+sampName in nuSVR 1821
+rmse = 0.5372933127817939
+nu = 0.15
+C = 1
+done fitting -- total fit time was 0.0038726329803466797
+sampName in nuSVR 1821
+rmse = 0.5372933127817934
+nu = 0.25
+C = 1
+done fitting -- total fit time was 0.003572225570678711
+sampName in nuSVR 1821
+rmse = 0.5373538749503024
+nu = 0.5
+C = 1
+done fitting -- total fit time was 0.00335693359375
+sampName in nuSVR 1821
+rmse = 0.5373088881462645
+nu = 0.6
+C = 1
+done fitting -- total fit time was 0.003245115280151367
+sampName in nuSVR 1821
+rmse = 0.5373088881462659
+nu = 0.75
+C = 1
+done fitting -- total fit time was 0.003208637237548828
+sampName in nuSVR 1821
+rmse = 0.5373450592157706
+nu = 0.8
+C = 1
+done fitting -- total fit time was 0.0033178329467773438
+sampName in nuSVR 1821
+rmse = 0.5374536949264382
+nu = 0.85
+C = 1
+done fitting -- total fit time was 0.0031690597534179688
+sampName in nuSVR 1821
+rmse = 0.537453694926438
+nu = 0.05
+C = 10
+done fitting -- total fit time was 0.003237485885620117
+sampName in nuSVR 1821
+rmse = 0.5372933127817932
+nu = 0.1
+C = 10
+done fitting -- total fit time was 0.0032224655151367188
+sampName in nuSVR 1821
+rmse = 0.5372933127817945
+nu = 0.15
+C = 10
+done fitting -- total fit time was 0.00323486328125
+sampName in nuSVR 1821
+rmse = 0.5372933127817923
+nu = 0.25
+C = 10
+done fitting -- total fit time was 0.0034661293029785156
+sampName in nuSVR 1821
+rmse = 0.5373538749503064
+nu = 0.5
+C = 10
+done fitting -- total fit time was 0.003263235092163086
+sampName in nuSVR 1821
+rmse = 0.5373088881462711
+nu = 0.6
+C = 10
+done fitting -- total fit time was 0.0034275054931640625
+sampName in nuSVR 1821
+rmse = 0.5373088881462706
+nu = 0.75
+C = 10
+done fitting -- total fit time was 0.005696535110473633
+sampName in nuSVR 1821
+rmse = 0.5373450592157732
+nu = 0.8
+C = 10
+done fitting -- total fit time was 0.005265235900878906
+sampName in nuSVR 1821
+rmse = 0.5374536949264443
+nu = 0.85
+C = 10
+done fitting -- total fit time was 0.0044629573822021484
+sampName in nuSVR 1821
+rmse = 0.5374536949264405
+srrName =  1821-NUSVR
+1821-NUSVR
+dict_keys(['1821'])
+srrName =  1821-NUSVR
+1821-NUSVR
+dict_keys(['1821'])
+srrName =  1821-NUSVR
+1821-NUSVR
+dict_keys(['1821'])
+srrName =  1821-NUSVR
+1821-NUSVR
+dict_keys(['1821'])
+srrName =  1821-NUSVR
+1821-NUSVR
+dict_keys(['1821'])
+srrName =  1821-NUSVR
+1821-NUSVR
+dict_keys(['1821'])
+srrName =  1821-NUSVR
+1821-NUSVR
+dict_keys(['1821'])
+srrName =  1821-NUSVR
+1821-NUSVR
+dict_keys(['1821'])
+srrName =  1821-NUSVR
+1821-NUSVR
+dict_keys(['1821'])
+srrName =  1821-NUSVR
+1821-NUSVR
+dict_keys(['1821'])
+srrName =  1821-NUSVR
+1821-NUSVR
+dict_keys(['1821'])
+srrName =  1821-NUSVR
+1821-NUSVR
+dict_keys(['1821'])
+srrName =  1821-NUSVR
+1821-NUSVR
+dict_keys(['1821'])
+srrName =  1821-NUSVR
+1821-NUSVR
+dict_keys(['1821'])
+srrName =  1821-NUSVR
+1821-NUSVR
+dict_keys(['1821'])
+srrName =  1821-NUSVR
+1821-NUSVR
+dict_keys(['1821'])
+srrName =  1821-NUSVR
+1821-NUSVR
+dict_keys(['1821'])
+srrName =  1821-NUSVR
+1821-NUSVR
+dict_keys(['1821'])
+srrName =  1821-NUSVR
+1821-NUSVR
+dict_keys(['1821'])
+srrName =  1821-NUSVR
+1821-NUSVR
+dict_keys(['1821'])
+srrName =  1821-NUSVR
+1821-NUSVR
+dict_keys(['1821'])
+srrName =  1821-NUSVR
+1821-NUSVR
+dict_keys(['1821'])
+srrName =  1821-NUSVR
+1821-NUSVR
+dict_keys(['1821'])
+srrName =  1821-NUSVR
+1821-NUSVR
+dict_keys(['1821'])
+srrName =  1821-NUSVR
+1821-NUSVR
+dict_keys(['1821'])
+srrName =  1821-NUSVR
+1821-NUSVR
+dict_keys(['1821'])
+srrName =  1821-NUSVR
+1821-NUSVR
+dict_keys(['1821'])
+srrName =  1821-NUSVR
+1821-NUSVR
+dict_keys(['1821'])
+srrName =  1821-NUSVR
+1821-NUSVR
+dict_keys(['1821'])
+srrName =  1821-NUSVR
+1821-NUSVR
+dict_keys(['1821'])
+srrName =  1821-NUSVR
+1821-NUSVR
+dict_keys(['1821'])
+srrName =  1821-NUSVR
+1821-NUSVR
+dict_keys(['1821'])
+srrName =  1821-NUSVR
+1821-NUSVR
+dict_keys(['1821'])
+srrName =  1821-NUSVR
+1821-NUSVR
+dict_keys(['1821'])
+srrName =  1821-NUSVR
+1821-NUSVR
+dict_keys(['1821'])
+srrName =  1821-NUSVR
+1821-NUSVR
+dict_keys(['1821'])
+srrName =  1821-NUSVR
+1821-NUSVR
+dict_keys(['1821'])
+srrName =  1821-NUSVR
+1821-NUSVR
+dict_keys(['1821'])
+srrName =  1821-NUSVR
+1821-NUSVR
+dict_keys(['1821'])
+srrName =  1821-NUSVR
+1821-NUSVR
+dict_keys(['1821'])
+srrName =  1821-NUSVR
+1821-NUSVR
+dict_keys(['1821'])
+srrName =  1821-NUSVR
+1821-NUSVR
+dict_keys(['1821'])
+srrName =  1821-NUSVR
+1821-NUSVR
+dict_keys(['1821'])
+srrName =  1821-NUSVR
+1821-NUSVR
+dict_keys(['1821'])
+srrName =  1821-NUSVR
+1821-NUSVR
+dict_keys(['1821'])
+srrName =  1821-NUSVR
+1821-NUSVR
+dict_keys(['1821'])
+srrName =  1821-NUSVR
+1821-NUSVR
+dict_keys(['1821'])
+srrName =  1821-NUSVR
+1821-NUSVR
+dict_keys(['1821'])
+srrName =  1821-NUSVR
+1821-NUSVR
+dict_keys(['1821'])
+srrName =  1821-NUSVR
+1821-NUSVR
+dict_keys(['1821'])
+srrName =  1821-NUSVR
+1821-NUSVR
+dict_keys(['1821'])
+srrName =  1821-NUSVR
+1821-NUSVR
+dict_keys(['1821'])
+srrName =  1821-NUSVR
+1821-NUSVR
+dict_keys(['1821'])
+srrName =  1821-NUSVR
+1821-NUSVR
+dict_keys(['1821'])
