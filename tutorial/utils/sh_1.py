@@ -10,16 +10,16 @@ import os
 
 # path to your CPM-normalized counts
 # IMPORTANT: first row should be gene names, column names should be samples
-sampPath = "/home/users/hagop/cellfracker2/cellfracker/tutorial/data/samples_test.csv"
-basis_mat_path = "/home/users/hagop/cellfracker2/cellfracker/tutorial/data/tsp_v1_basisMatrix.txt"
+sampPath = "/home/users/hagop/cellfracker_pub2/tutorial/data/samples_test.csv"
+basis_mat_path = "/home/users/hagop/cellfracker_pub2/tutorial/data/tsp_v1_basisMatrix.txt"
 savePredictions = True 
 doCpmNorm = False
 cpmThresh = 0 # minimum gene expression level in sample (can increase/decrease need be)
 deconMethod = "nusvr" # specify to "nuSVR" or "nnls" or "QP" (whichever kind of deconvolution you'd like to perform)
-out_path = "/home/users/hagop/cellfracker2/cellfracker/tutorial/outputs/"
+out_path = "/home/users/hagop/cellfracker_pub2/tutorial/outputs/"
 env = "deconv" # name of the conda environment 
-sh_save_dir = "/home/users/hagop/cellfracker2/cellfracker/tutorial/shfiles/" # folder to save generated .sh files to 
-deconv_wrapper_path = "/home/users/hagop/cellfracker2/cellfracker/core/deconv_wrapper.py"
+sh_save_dir = "/home/users/hagop/cellfracker_pub2/tutorial/shfiles/" # folder to save generated .sh files to 
+deconv_wrapper_path = "/home/users/hagop/cellfracker_pub2/core/deconv_wrapper.py"
 partition = "quake,owners,normal" # partition on supercomputer for jobs to be run 
 
 ### other params to tweak (need be) 
